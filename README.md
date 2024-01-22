@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Write to terminal: npx create-next-app@latest Answer the question like this:
+
+What is your project named? project_name
+
+Would you like to use TypeScript? No / Yes -> No
+
+Would you like to use ESLint? No / Yes -> No
+
+Would you like to use Tailwind CSS? No / Yes -> No
+
+Would you like to use src/ directory? No / Yes -> No
+
+Would you like to use App Router? (recommended) No / Yes -> Yes
+
+Would you like to customize the default import alias (@/*)? No / Yes -> No
+
+What import alias would you like configured? @/*
 
 ## Getting Started
 
